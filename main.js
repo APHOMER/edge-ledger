@@ -11,7 +11,6 @@ function initMap() {
   const marker = new google.maps.Marker({ position: loc, map: map });
 }
 
-
 // Sticky menu background
 window.addEventListener('scroll', function() {
   if (window.scrollY > 150) {
