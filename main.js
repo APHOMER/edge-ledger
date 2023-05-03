@@ -35,4 +35,3 @@ $('#navbar a, .btn').on('click', function(event) {
     );
   }
 });
-
